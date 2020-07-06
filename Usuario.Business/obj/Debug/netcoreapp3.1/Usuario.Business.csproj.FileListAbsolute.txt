@@ -1,0 +1,27 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\Usuario\Usuario\Usuario.Business\bin\Debug\netcoreapp3.1\Usuario.Business.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Usuario\Usuario\Usuario.Business\bin\Debug\netcoreapp3.1\Usuario.Business.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Usuario\Usuario\Usuario.Business\bin\Debug\netcoreapp3.1\Usuario.Business.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Usuario\Usuario\Usuario.Business\obj\Debug\netcoreapp3.1\Usuario.Business.csprojAssemblyReference.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Usuario\Usuario\Usuario.Business\obj\Debug\netcoreapp3.1\Usuario.Business.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Usuario\Usuario\Usuario.Business\obj\Debug\netcoreapp3.1\Usuario.Business.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Usuario\Usuario\Usuario.Business\obj\Debug\netcoreapp3.1\Usuario.Business.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\Usuario\Usuario\Usuario.Business\obj\Debug\netcoreapp3.1\Usuario.Business.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Usuario\Usuario\Usuario.Business\obj\Debug\netcoreapp3.1\Usuario.Business.pdb
+D:\Projetos\Usuario-Confitec\Usuario\Usuario.Business\bin\Debug\netcoreapp3.1\Usuario.Business.deps.json
+D:\Projetos\Usuario-Confitec\Usuario\Usuario.Business\bin\Debug\netcoreapp3.1\Usuario.Business.dll
+D:\Projetos\Usuario-Confitec\Usuario\Usuario.Business\bin\Debug\netcoreapp3.1\Usuario.Business.pdb
+D:\Projetos\Usuario-Confitec\Usuario\Usuario.Business\obj\Debug\netcoreapp3.1\Usuario.Business.csprojAssemblyReference.cache
+D:\Projetos\Usuario-Confitec\Usuario\Usuario.Business\obj\Debug\netcoreapp3.1\Usuario.Business.csproj.CoreCompileInputs.cache
+D:\Projetos\Usuario-Confitec\Usuario\Usuario.Business\obj\Debug\netcoreapp3.1\Usuario.Business.AssemblyInfoInputs.cache
+D:\Projetos\Usuario-Confitec\Usuario\Usuario.Business\obj\Debug\netcoreapp3.1\Usuario.Business.AssemblyInfo.cs
+D:\Projetos\Usuario-Confitec\Usuario\Usuario.Business\obj\Debug\netcoreapp3.1\Usuario.Business.dll
+D:\Projetos\Usuario-Confitec\Usuario\Usuario.Business\obj\Debug\netcoreapp3.1\Usuario.Business.pdb
+D:\Projetos\Usuario-Confitec\UsuarioApi\Usuario.Business\bin\Debug\netcoreapp3.1\Usuario.Business.deps.json
+D:\Projetos\Usuario-Confitec\UsuarioApi\Usuario.Business\bin\Debug\netcoreapp3.1\Usuario.Business.dll
+D:\Projetos\Usuario-Confitec\UsuarioApi\Usuario.Business\bin\Debug\netcoreapp3.1\Usuario.Business.pdb
+D:\Projetos\Usuario-Confitec\UsuarioApi\Usuario.Business\obj\Debug\netcoreapp3.1\Usuario.Business.csprojAssemblyReference.cache
+D:\Projetos\Usuario-Confitec\UsuarioApi\Usuario.Business\obj\Debug\netcoreapp3.1\Usuario.Business.AssemblyInfoInputs.cache
+D:\Projetos\Usuario-Confitec\UsuarioApi\Usuario.Business\obj\Debug\netcoreapp3.1\Usuario.Business.AssemblyInfo.cs
+D:\Projetos\Usuario-Confitec\UsuarioApi\Usuario.Business\obj\Debug\netcoreapp3.1\Usuario.Business.csproj.CoreCompileInputs.cache
+D:\Projetos\Usuario-Confitec\UsuarioApi\Usuario.Business\obj\Debug\netcoreapp3.1\Usuario.Business.dll
+D:\Projetos\Usuario-Confitec\UsuarioApi\Usuario.Business\obj\Debug\netcoreapp3.1\Usuario.Business.pdb

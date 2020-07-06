@@ -1,0 +1,36 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\Usuario\Usuario\Usuario.Data\bin\Debug\netcoreapp3.1\Usuario.Data.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Usuario\Usuario\Usuario.Data\bin\Debug\netcoreapp3.1\Usuario.Data.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Usuario\Usuario\Usuario.Data\bin\Debug\netcoreapp3.1\Usuario.Data.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Usuario\Usuario\Usuario.Data\bin\Debug\netcoreapp3.1\Usuario.Business.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Usuario\Usuario\Usuario.Data\bin\Debug\netcoreapp3.1\Usuario.Business.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Usuario\Usuario\Usuario.Data\obj\Debug\netcoreapp3.1\Usuario.Data.csprojAssemblyReference.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Usuario\Usuario\Usuario.Data\obj\Debug\netcoreapp3.1\Usuario.Data.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Usuario\Usuario\Usuario.Data\obj\Debug\netcoreapp3.1\Usuario.Data.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\Usuario\Usuario\Usuario.Data\obj\Debug\netcoreapp3.1\Usuario.Data.csproj.CopyComplete
+C:\Users\thiag\OneDrive\Área de Trabalho\Usuario\Usuario\Usuario.Data\obj\Debug\netcoreapp3.1\Usuario.Data.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Usuario\Usuario\Usuario.Data\obj\Debug\netcoreapp3.1\Usuario.Data.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Usuario\Usuario\Usuario.Data\obj\Debug\netcoreapp3.1\Usuario.Data.csproj.CoreCompileInputs.cache
+D:\Projetos\Usuario-Confitec\Usuario\Usuario.Data\bin\Debug\netcoreapp3.1\Usuario.Data.deps.json
+D:\Projetos\Usuario-Confitec\Usuario\Usuario.Data\bin\Debug\netcoreapp3.1\Usuario.Data.dll
+D:\Projetos\Usuario-Confitec\Usuario\Usuario.Data\bin\Debug\netcoreapp3.1\Usuario.Data.pdb
+D:\Projetos\Usuario-Confitec\Usuario\Usuario.Data\bin\Debug\netcoreapp3.1\Usuario.Business.dll
+D:\Projetos\Usuario-Confitec\Usuario\Usuario.Data\bin\Debug\netcoreapp3.1\Usuario.Business.pdb
+D:\Projetos\Usuario-Confitec\Usuario\Usuario.Data\obj\Debug\netcoreapp3.1\Usuario.Data.csprojAssemblyReference.cache
+D:\Projetos\Usuario-Confitec\Usuario\Usuario.Data\obj\Debug\netcoreapp3.1\Usuario.Data.csproj.CoreCompileInputs.cache
+D:\Projetos\Usuario-Confitec\Usuario\Usuario.Data\obj\Debug\netcoreapp3.1\Usuario.Data.AssemblyInfoInputs.cache
+D:\Projetos\Usuario-Confitec\Usuario\Usuario.Data\obj\Debug\netcoreapp3.1\Usuario.Data.AssemblyInfo.cs
+D:\Projetos\Usuario-Confitec\Usuario\Usuario.Data\obj\Debug\netcoreapp3.1\Usuario.Data.csproj.CopyComplete
+D:\Projetos\Usuario-Confitec\Usuario\Usuario.Data\obj\Debug\netcoreapp3.1\Usuario.Data.dll
+D:\Projetos\Usuario-Confitec\Usuario\Usuario.Data\obj\Debug\netcoreapp3.1\Usuario.Data.pdb
+D:\Projetos\Usuario-Confitec\UsuarioApi\Usuario.Data\bin\Debug\netcoreapp3.1\Usuario.Data.deps.json
+D:\Projetos\Usuario-Confitec\UsuarioApi\Usuario.Data\bin\Debug\netcoreapp3.1\Usuario.Data.dll
+D:\Projetos\Usuario-Confitec\UsuarioApi\Usuario.Data\bin\Debug\netcoreapp3.1\Usuario.Data.pdb
+D:\Projetos\Usuario-Confitec\UsuarioApi\Usuario.Data\bin\Debug\netcoreapp3.1\Usuario.Business.dll
+D:\Projetos\Usuario-Confitec\UsuarioApi\Usuario.Data\bin\Debug\netcoreapp3.1\Usuario.Business.pdb
+D:\Projetos\Usuario-Confitec\UsuarioApi\Usuario.Data\obj\Debug\netcoreapp3.1\Usuario.Data.csprojAssemblyReference.cache
+D:\Projetos\Usuario-Confitec\UsuarioApi\Usuario.Data\obj\Debug\netcoreapp3.1\Usuario.Data.AssemblyInfoInputs.cache
+D:\Projetos\Usuario-Confitec\UsuarioApi\Usuario.Data\obj\Debug\netcoreapp3.1\Usuario.Data.AssemblyInfo.cs
+D:\Projetos\Usuario-Confitec\UsuarioApi\Usuario.Data\obj\Debug\netcoreapp3.1\Usuario.Data.csproj.CoreCompileInputs.cache
+D:\Projetos\Usuario-Confitec\UsuarioApi\Usuario.Data\obj\Debug\netcoreapp3.1\Usuario.Data.csproj.CopyComplete
+D:\Projetos\Usuario-Confitec\UsuarioApi\Usuario.Data\obj\Debug\netcoreapp3.1\Usuario.Data.dll
+D:\Projetos\Usuario-Confitec\UsuarioApi\Usuario.Data\obj\Debug\netcoreapp3.1\Usuario.Data.pdb
